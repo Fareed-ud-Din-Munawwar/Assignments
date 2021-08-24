@@ -1,2 +1,2 @@
 # Assignments
-This is a repository for Assignmetns done during training
+This is a repository for Assignments done during training
